@@ -7,7 +7,7 @@ Tous ces services fonctionnent aujourd'hui de manière indépendante même si il
 
 1.1 Origines et motivations  
 
-En 2007, la mairie de caylus rénove un batiment d'environ 800m² afin d'y installer la médiathèque sur plus de 200m² et une cyber-base ainsi que des logements. Ceci marquera le point de départ de la réhabilitation du centre bourg. 
+En 2007, la mairie de Caylus rénove un batiment d'environ 800m² afin d'y installer la médiathèque sur plus de 200m² et une cyber-base ainsi que des logements. Ceci marquera le point de départ de la réhabilitation du centre bourg. 
 Depuis plus de 3 ans, la commune de Caylus et la communauté de communes continuent leurs efforts afin de proposer un lieu de vie et de travail toujours plus agréable. Fin 2015, un batiment de plus de 300m² situé de l'autre côté d'une cour commune avec la médiathèque est rénové afin d'y accueillir un Centre de Ressource Economique (C.R.E). La même année, la Région Occitanie lance un appel à projet afin de faciliter l'émergence de Fablabs et plus particulièrement en milieu rural. Suite à la réponse positive à notre dossier déposé en partenariat avec la Chambre de Métiers et de l'Artisanat de Tarn-et-Garonne, le fablab Origami voit le jour dans un espace de 45m² en 2016 avec le recrutement d'un ETP.  
 Véritablement tourné vers l'axe "Artisanat", le fablab s'est agrandi en rénovant un espace de plus de 70m² et a fait le choix de machines adaptées à ces métiers, fiables et de grandes tailles. On peut citer parmis les grandes machines, une découpe laser, une fraiseuse numérique ou encore une découpe plasma. Mais sans oublier non plus les machines que l'on trouve traditionnellement dans un fablab comme des imprimantes 3D, découpe vinyle, découpe fil chaud.
 Depuis, le fablab a été labellisé auprès de l'association e-Nable ou encore Fablab MIT et a créé une formation de 6 mois en partenariat avec la CMA82 **Grande Ecole de Numérique** en 2017.  
@@ -42,9 +42,7 @@ L’artisanat est également un secteur essentiel de l’économie locale, avec 
 L’offre touristique du territoire est essentiellement axée sur le tourisme de plein air. Le territoire bénéficie effectivement de nombreux atouts naturels et paysagers (Gorges de l’Aveyron, faible urbanisation, …) qui en font un lieu de choix et se situe à proximité de la grande agglomération Toulousaine et d’agglomérations moyennes comme Montauban, Albi et Rodez. Le territoire de QRGA se trouve localisé dans une position centrale autour de laquelle se trouvent des zones à fort pouvoir touristique : Cordes, Najac, Albi, Puycelsi, Penne, Bruniquel, etc.  
 Dans ce cadre, les pratiques sportives (escalade, spéléologie, équitation et VTT) et en particulier la location de canoës sont un pan important de l’économie touristique locale.  
 L’accueil des randonneurs fait aussi partie des caractéristiques touristiques du territoire. Des sentiers balisés de randonnées sont très présents sur le territoire et sont entretenus par la Communauté de Communes et les communes.  
-Récemment, le territoire a été labellisé Grandes Sites Occitanie 
-
- 
+Récemment, le territoire ***Bastides et Gorges de l'Aveyron*** regropant Caylus, Saint-Antonin-Noble-Val, Najac, Villefranche-de- Rouergue et Villeneuve-d'Aveyron, a été labellisé Grandes Sites Occitanie.  
 
 En matière d’hébergement, les gîtes, campings, chambres d’hôtes et meublés répertoriés sont en nombre conséquent. Ils se situent principalement sur St-Antonin, Caylus et Varen.
 
