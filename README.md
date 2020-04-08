@@ -23,7 +23,7 @@ Enfin, le dernier projet et un projet de motorisaton de fauteuil roulant pour en
 Comme évoqué précédemment, le C.R.E accueil une MSAP, bientôt labelisée France Service. Elle évite au personne de devoir se rendre sur Montauban pour les démarches administratives. Un hôtel d'entreprise héberge des botanistes ainsi qu'une entreprise de gestion de l'eau et un cabinet d'architecte. On y trouve également des permanences des impôts, de la CAF, Pôle Emploi ou encore la MSA. Un espace cuisine ou toutes les personnes qui travaillent ou viennent en formation sur le lieu peuvent se restaurer et échanger un moment convivial le temps du repas.  
 Tous ces services sont essentiels au maintien de la vie dans le village et pour le confort de tous les habitants.
 
- 
+Fort de toutes ces activités bien ancrées sur le territoire et soutenues par la population, les acteurs professionnel, les collectivités et les institutions l'ambition est d'aller encore plus loin. Le Tiers-Lieu Caylus et ses principaux acteurs ont le projet, grâce à cet Appel à Manifestation d'Intérêt de développer ce lieu et son offre mais aussi l'animation et la coordination de l'ensemble des activités proposées sur le lieu et au-delà avec la création, notamment, d'un fablab mobile afin de se rendre au plus près des gens, des envies, des projets.
 
 2. Territoire d’implantation du tiers-lieu et ancrage territorial du projet  
 
