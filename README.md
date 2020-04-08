@@ -42,7 +42,7 @@ L’artisanat est également un secteur essentiel de l’économie locale, avec 
 L’offre touristique du territoire est essentiellement axée sur le tourisme de plein air. Le territoire bénéficie effectivement de nombreux atouts naturels et paysagers (Gorges de l’Aveyron, faible urbanisation, …) qui en font un lieu de choix et se situe à proximité de la grande agglomération Toulousaine et d’agglomérations moyennes comme Montauban, Albi et Rodez. Le territoire de QRGA se trouve localisé dans une position centrale autour de laquelle se trouvent des zones à fort pouvoir touristique : Cordes, Najac, Albi, Puycelsi, Penne, Bruniquel, etc.  
 Dans ce cadre, les pratiques sportives (escalade, spéléologie, équitation et VTT) et en particulier la location de canoës sont un pan important de l’économie touristique locale.  
 L’accueil des randonneurs fait aussi partie des caractéristiques touristiques du territoire. Des sentiers balisés de randonnées sont très présents sur le territoire et sont entretenus par la Communauté de Communes et les communes.  
-Récemment, le territoire ***Bastides et Gorges de l'Aveyron*** regropant Caylus, Saint-Antonin-Noble-Val, Najac, Villefranche-de- Rouergue et Villeneuve-d'Aveyron, a été labellisé Grandes Sites Occitanie.  
+Récemment, le territoire ***Bastides et Gorges de l'Aveyron*** regroupant Caylus, Saint-Antonin-Noble-Val, Najac, Villefranche-de- Rouergue et Villeneuve-d'Aveyron, a été labellisé Grandes Sites Occitanie.  
 
 En matière d’hébergement, les gîtes, campings, chambres d’hôtes et meublés répertoriés sont en nombre conséquent. Ils se situent principalement sur St-Antonin, Caylus et Varen.
 
