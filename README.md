@@ -1,7 +1,6 @@
 # Tiers-Lieu Caylus    
 
 *Réponse à l'Appel à Manifestation d'Intérêt*   
-
 **Avril 2020**  
 
 ## **Fabriques de territoires**
