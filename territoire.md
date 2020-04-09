@@ -23,13 +23,15 @@ L'art tient également une grande place sur notre territoire avec la présence d
 2.2 Partenariats  
 
 2.2.1 Les institutionnels  
-La Chambre des Métiers et de l'Artisanant de Tarn-et-Garonne est le partenaire privilégié depuis le début du projet. Elle nous apporte un appui technique ainsi que de l'accès à de la formation ou encore nous met en relation avec les artisans du territoire. La ludothèque de la communauté de communes Quercy Caussadais qui nous a, à de nombreuses reprises, mis à disposition des jeux pour nos événements. Nous avons en retour reproduit des pièces manquantes de certains jeux.
+La Chambre des Métiers et de l'Artisanant de Tarn-et-Garonne est le partenaire privilégié depuis le début du projet. Elle nous apporte un appui technique ainsi que de l'accès à de la formation ou encore nous met en relation avec les artisans du territoire.  
+La ludothèque de la communauté de communes Quercy Caussadais qui nous a, à de nombreuses reprises, mis à disposition des jeux pour nos événements. Nous avons en retour reproduit des pièces manquantes de certains jeux.
 
 2.2.2 Les professionnels 
-L'espace de coworking de Laguépie "L'usine" qui nous a accueilli dans ses locaux pour un Café Bricol' hors les mûrs. Des artisans et entreprises sont venus partager leur savoir-faire lors de journée dédié, comme par exemple lors de la journée d'initiation à la soudure à l'arc.
+L'espace de coworking de Laguépie "L'usine" qui nous a accueilli dans ses locaux pour un Café Bricol' hors les mûrs.  
+Des artisans et entreprises sont venus partager leur savoir-faire lors de journées dédiées, comme par exemple lors de la journée d'initiation à la soudure à l'arc.  
 
 2.2.1 Les fablabs  
 Nous pouvons également citer dans la liste de nos partenaires les fablabs de Tarn-et-Garonne de Montauban, Moissac ou encore Valence-d'Agen mais également les fablabs de la région Occitanie. En effet, des événements communs ont été organisés : un fab distribué autour de l'agriculture et l'alimentation à Albi lors de Fab14, grand messe des fablabs, des Arduinos Days, des Scratchs Days, ...  
 
 2.2.3 Les associations  
-Différentes associations sont partie prenante du projet. On peut citer par exemple la radio locale associative CFM Caylus qui depuis le début se fait le relais des activités et projets du lieu. De nombreux projets ont permis des temps de rencontre et de travail, comme l'ADIAD, association qui accompagne les adultes en situation de handicap vers l'insertion professionnelle ou encore Bazart Textile, un tiers-lieu de Saint-Antonin-Noble-Val tourné vers le textile.
+Différentes associations sont partie prenante du projet. On peut citer par exemple la radio locale associative CFM Caylus qui depuis le début se fait le relais des activités et projets du lieu. De nombreux projets ont permis des temps de rencontre et de travail avec des associations du territoire mais aussi au-delà, comme l'ADIAD, association Montalbanaise qui accompagne les adultes en situation de handicap vers l'insertion professionnelle ou encore Bazart Textile, un tiers-lieu de Saint-Antonin-Noble-Val tourné vers le textile.
