@@ -22,14 +22,16 @@ L'art tient également une grande place sur notre territoire avec la présence d
 
 2.2 Partenariats  
 
-2.2.1 Les institutionnels  
+2.2.1 Les institutionnels, collectivités et services de l'Etat   
 La Chambre des Métiers et de l'Artisanant de Tarn-et-Garonne est le partenaire privilégié depuis le début du projet. Elle nous apporte un appui technique ainsi que de l'accès à de la formation ou encore nous met en relation avec les artisans du territoire.  
 La ludothèque de la communauté de communes Quercy Caussadais qui nous a, à de nombreuses reprises, mis à disposition des jeux pour nos événements. Nous avons en retour reproduit des pièces manquantes de certains jeux.  
 L'EREF-QRGA, qui propose un accompagnement vers l’emploi, la formation et la création d’activité avec lequel nous avons mis en place des ateliers de découverte du numérique à destination des personnes sans emploi.
+Nous pouvons également citer la Région Occitanie, le Département, le Pays Midi-Quercy, la préfecture.
 
 2.2.2 Les professionnels  
 L'espace de coworking de Laguépie "L'usine" qui nous a accueilli dans ses locaux pour un Café Bricol' hors les mûrs.  
 Des artisans et entreprises sont venus partager leur savoir-faire lors de journées dédiées, comme par exemple lors de la journée d'initiation à la soudure à l'arc.  
+La caisse locale du Crédit Agricole a également été un soutien financier pour certains projets. 
 
 2.2.1 Les fablabs  
 Nous pouvons également citer dans la liste de nos partenaires les fablabs de Tarn-et-Garonne de Montauban, Moissac ou encore Valence-d'Agen mais également les fablabs de la région Occitanie. En effet, des événements communs ont été organisés : un fab distribué autour de l'agriculture et l'alimentation à Albi lors de Fab14, grand messe des fablabs, des Arduinos Days, des Scratchs Days, ...  
