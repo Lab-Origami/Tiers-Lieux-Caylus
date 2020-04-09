@@ -20,7 +20,7 @@ En matière d’hébergement, les gîtes, campings, chambres d’hôtes et meubl
 2.1.4 Art  
 L'art tient également une grande place sur notre territoire avec la présence de résidences d'artistes, de lieux tourné vers le textile ou encore l'une des plus grande collection d'art contemporain à l'Abbaye de Beaulieu. Mais également la présence de nombreux artisans d'art : ferronniers, luthiers, sculpteurs, potiers, musiciens...
 
-2.2 Partenariats  
+2.2 Partenariats existants  
 
 2.2.1 Les institutionnels, collectivités et services de l'Etat   
 La Chambre des Métiers et de l'Artisanant de Tarn-et-Garonne est le partenaire privilégié depuis le début du projet. Elle nous apporte un appui technique ainsi que de l'accès à de la formation ou encore nous met en relation avec les artisans du territoire.  
@@ -37,4 +37,10 @@ La caisse locale du Crédit Agricole a également été un soutien financier pou
 Nous pouvons également citer dans la liste de nos partenaires les fablabs de Tarn-et-Garonne de Montauban, Moissac ou encore Valence-d'Agen mais également les fablabs de la région Occitanie. En effet, des événements communs ont été organisés : un fab distribué autour de l'agriculture et l'alimentation à Albi lors de Fab14, grand messe des fablabs, des Arduinos Days, des Scratchs Days, ...  
 
 2.2.3 Les associations  
-Différentes associations sont partie prenante du projet. On peut citer par exemple la radio locale associative CFM Caylus qui depuis le début se fait le relais des activités et projets du lieu. De nombreux projets ont permis des temps de rencontre et de travail avec des associations du territoire mais aussi au-delà, comme l'ADIAD, association Montalbanaise qui accompagne les adultes en situation de handicap vers l'insertion professionnelle ou encore Bazart Textile, un tiers-lieu de Saint-Antonin-Noble-Val tourné vers le textile.
+Différentes associations sont partie prenante du projet. On peut citer par exemple la radio locale associative CFM Caylus qui depuis le début se fait le relais des activités et projets du lieu. De nombreux projets ont permis des temps de rencontre et de travail avec des associations du territoire mais aussi au-delà, comme l'ADIAD, association Montalbanaise qui accompagne les adultes en situation de handicap vers l'insertion professionnelle ou encore Bazart Textile, un tiers-lieu de Saint-Antonin-Noble-Val tourné vers le textile.  
+
+2.3 Futurs partenariats  
+
+Le territoire compte aujourd'hui énormément d'intiatives collectives : une futur recyclerie à Lexos, un Tiers-Lieu à Saint-Antonin-Noble-val, des cafés associatifs sur Caylus, Espinas, un atelier partagé à Verfeuil-sur-Seye, ...
+Nous sommes d'ores et déjà entrer en contact avec la plupart d'entre eux. Nous souhaitons mettre à profit l'expérience que nous avons acquise ces dernières années et mettre en place des partenariats forts entre nous tous. Il nous semble en effet, qu'il y a de multiples passerelles entre nos différentes structures.  
+
