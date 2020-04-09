@@ -24,7 +24,8 @@ L'art tient également une grande place sur notre territoire avec la présence d
 
 2.2.1 Les institutionnels  
 La Chambre des Métiers et de l'Artisanant de Tarn-et-Garonne est le partenaire privilégié depuis le début du projet. Elle nous apporte un appui technique ainsi que de l'accès à de la formation ou encore nous met en relation avec les artisans du territoire.  
-La ludothèque de la communauté de communes Quercy Caussadais qui nous a, à de nombreuses reprises, mis à disposition des jeux pour nos événements. Nous avons en retour reproduit des pièces manquantes de certains jeux.
+La ludothèque de la communauté de communes Quercy Caussadais qui nous a, à de nombreuses reprises, mis à disposition des jeux pour nos événements. Nous avons en retour reproduit des pièces manquantes de certains jeux.  
+L'EREF-QRGA, qui propose un accompagnement vers l’emploi, la formation et la création d’activité avec lequel nous avons mis en place des ateliers de découverte du numérique à destination des personnes sans emploi.
 
 2.2.2 Les professionnels  
 L'espace de coworking de Laguépie "L'usine" qui nous a accueilli dans ses locaux pour un Café Bricol' hors les mûrs.  
