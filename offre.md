@@ -19,7 +19,7 @@ Le lieu est équipé d'une connexion internet haut débit et pourra prochainemen
 Nous détaillerons ci-dessous de manière plus précise l'offre des différents espaces.  
 
 2.1 Salle de réunion  
-Une salle de réunion d'environ 50m² pouvant accueillir 20 participants au maximum équipée d'une connexion internet filaire et sans-fil, d'un système de vidéo-conférence avec écran géant et micro individuel. La salle de réunion sera accessible aux résidents permanents du Tiers-Lieu mais également aux extérieurs comme des associations pour la tenue de leur Conseil d'Administration par exemple, des municipalités, des entreprises, les écoles, ...
+Une salle de réunion d'environ 50m² pouvant accueillir 20 participants au maximum équipée d'une connexion internet filaire et sans-fil, d'un système de visio-conférence avec écran géant et micro individuel. La salle de réunion sera accessible aux résidents permanents du Tiers-Lieu mais également aux extérieurs comme des associations pour la tenue de leur Conseil d'Administration par exemple, des municipalités, des entreprises, les écoles, ...
 
 2.2 Bureaux  
 6 bureaux, allant de 10 à 15m², fermés au total seront disponibles au mois ou à l'année. Un bureau sera réservé pour les personnes souhaitant louer un espace pour un temps réduit (une journée ou plus). Chacun est équipé d'une armoire, d'une connexion internet et bénéficie de l'accès à un photocopieur. Chaque locataire bénéficie bien entendu de l'accès à l'ensemble des espaces. 
