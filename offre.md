@@ -19,16 +19,16 @@ Le lieu est équipé d'une connexion internet haut débit et pourra prochainemen
 Nous détaillerons ci-dessous de manière plus précise l'offre des différents espaces.  
 
 2.1 Salle de réunion  
-Une salle de réunion d'environ 50m² pouvant accueillir 20 participants au maximum équipée d'une connexion internet filaire et sans-fil, d'un système de vidéo-conférence avec écran géant et micro individuel.
+Une salle de réunion d'environ 50m² pouvant accueillir 20 participants au maximum équipée d'une connexion internet filaire et sans-fil, d'un système de vidéo-conférence avec écran géant et micro individuel. La salle de réunion sera accessible aux résidents permanents du Tiers-Lieu mais également aux extérieurs comme des associations pour la tenue de leur Conseil d'Administration par exemple, des municipalités, des entreprises, les écoles, ...
 
 2.2 Bureaux  
-6 bureaux, allant de 10 à 15m², fermés au total seront disponibles au mois ou à l'année. Chacun est équipé d'une connexion internet et bénéficie de l'accès à un photocopieur.  
+6 bureaux, allant de 10 à 15m², fermés au total seront disponibles au mois ou à l'année. Un bureau sera réservé pour les personnes souhaitant louer un espace pour un temps réduit (une journée ou plus). Chacun est équipé d'une armoire, d'une connexion internet et bénéficie de l'accès à un photocopieur. Chaque locataire bénéficie bien entendu de l'accès à l'ensemble des espaces. 
 
 2.3 Espaces de coworking  
 Un espace de coworking de 30m² pouvant accueillir 4 personnes maximum équipé de bureau individuel et de casier, d'une connexion wifi, d'un accès au photocopieur, aux espaces de repos et à la cuisine partagée. L'accès à la journée sera facturé 5€. Ce prix ne tenant pas compte des éventuelles photocopies ou impressions réalisées sur le site.  
 
 2.4 Fablab  
-Le fablab mettra à disposition de tous un atelier bois et métal d'environ 60m². Un espace de plus de 70m² offrira quand à lui l'accès aux imprimantes 3D, découpe vinyle et fil chaud ainsi qu'un espace détente et documentation. D'autres espaces, restant à définir, permettront d'accueillir des zones d'assemblages, un laboratoire d'électronique ou encore un atelier terre.  
+Le fablab mettra à disposition de tous un atelier bois et métal d'environ 60m² équipé d'une fraiseuse numérique de grande taille ainsi que d'une découpe plasma et découpe laser. Un espace de plus de 70m² offrira quand à lui l'accès aux imprimantes 3D, découpe vinyle et fil chaud ainsi qu'un espace détente et documentation. D'autres espaces, restant à définir, permettront d'accueillir des zones d'assemblages, un laboratoire d'électronique ou encore un atelier terre.  
 
 2.5 Micro-folie  
 L'installation d'une Micro-folie est prévue sur le lieu. Un espace de 70m² pour le musée numérique que viendront compléter deux espaces de réalité virtuel de 10m² chacun. La Micro-folie sera un outil d'accès à l'art pour tous et des ateliers viendront compléter ce dispositif en partenariat avec des structures du territoire comme la résidence d'artiste Draw International ou encore l'Abbaye de Beaulieu, abbaye cistercienne abandonnée à la Révolution, sauvée de la ruine dans les années 1950 par Geneviève Bonnefoi et Pierre Brache. En 1973, ils en font don ainsi qu'une importante collection d'art moderne aux Monuments nationaux. L'abbaye est alors transformée en centre d'art contemporain et aujourd'hui plus important musée d'art contemporain de la région Midi-Pyrénées.
