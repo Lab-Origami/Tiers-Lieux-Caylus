@@ -44,3 +44,5 @@ Différentes associations sont partie prenante du projet. On peut citer par exem
 Le territoire compte aujourd'hui énormément d'intiatives collectives : une futur recyclerie à Lexos, un Tiers-Lieu à Saint-Antonin-Noble-val, des cafés associatifs sur Caylus, Espinas, un atelier partagé à Verfeuil-sur-Seye, ...
 Nous sommes d'ores et déjà entrer en contact avec la plupart d'entre eux. Nous souhaitons mettre à profit l'expérience que nous avons acquise ces dernières années et mettre en place des partenariats forts entre nous tous. Il nous semble en effet, qu'il y a de multiples passerelles entre nos différentes structures.  
 
+[Retour](README.md)
+
