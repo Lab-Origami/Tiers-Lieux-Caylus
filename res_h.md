@@ -11,5 +11,7 @@ Pour mener à bien ce projet, nous avons déjà une équipe en place et le recru
 
 * Laëtitia GOMEZ, chargée de mission Offre accueil au sein de la CCQRGA et directrice de l’Espace Rural Emploi Formation du Quercy Rouergue et des Gorges de l’Aveyron depuis le 1/1/2014. Laëtitia suit actuellement un Master Gestion des Entreprises Sociales et de Santé – Toulouse School of Management- UT1 Toulouse Capitole. Elle sera chargée de l'accompagnement des entreprises au sein du lieu.
 
-* Mickael POSTOLOVIC, fabmanager du Fablab Origami depuis Septembre 2016. Après une formation d'ingénieur en traitement de l'image et vision industrielle et plus d'une dizaine d'année dans l'industrie et très actif dans le monde associatif il apportera une expertise technique auprès des entrepreneurs et utilisateurs des lieux. Il mettra à profit sa connaissance des acteurs locaux et ses compétences tant au niveau formation qu'expérimentation au service de tous. Il sera le concierge du futur Tiers-Lieu Caylus.
+* Mickael POSTOLOVIC, fabmanager du Fablab Origami depuis Septembre 2016. Après une formation d'ingénieur en traitement de l'image et vision industrielle et plus d'une dizaine d'année dans l'industrie et très actif dans le monde associatif il apportera une expertise technique auprès des entrepreneurs et utilisateurs des lieux. Il mettra à profit sa connaissance des acteurs locaux et ses compétences tant au niveau formation qu'expérimentation au service de tous. Il sera le concierge du futur Tiers-Lieu Caylus.  
+
+[Retour](README.md)
 
