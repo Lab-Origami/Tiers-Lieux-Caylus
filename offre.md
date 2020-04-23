@@ -18,7 +18,7 @@ Le Tiers-Lieu sera ouvert au minimum du lundi au vendredi de 8h30 à 17h30 avec 
 Le lieu est équipé d'une connexion internet haut débit et pourra prochainement être équipé de la fibre optique autorisant un débit bien supérieur. Seront accessibles des salles de réunions équipées pour de la visio-conférence, des espaces de coworking, des bureaux, des espaces conviviaux, une cuisine partagée, des jardinières, un fablab avec différents ateliers (bois, métal, terre), une médiathèque, un espace micro-folie et des espaces de formation. 
 Nous détaillerons ci-dessous de manière plus précise l'offre des différents espaces.  
 
-2.1 Salle de réunion  
+2.1 Salle de réunion => Emplacement à définir  
 Une salle de réunion d'environ 50m² pouvant accueillir 20 participants au maximum équipée d'une connexion internet filaire et sans-fil, d'un système de visio-conférence avec écran géant et micro individuel. La salle de réunion sera accessible aux résidents permanents du Tiers-Lieu mais également aux extérieurs comme des associations pour la tenue de leur Conseil d'Administration par exemple, des municipalités, des entreprises, les écoles, ...
 
 2.2 Bureaux  
@@ -35,7 +35,10 @@ L'installation d'une Micro-folie est prévue sur le lieu. Un espace de 70m² pou
 
 2.6 Formation  
 Une salle de formation de plus de 40m² et capable d'accueillir jusqu'à 10 stagiaires, labellisée Tiers-Lieu eFormation a été créée en Mars 2019.  
-A cela, viendra se greffer le projet de création d'un master Artisan Numérique, prenant la suite de la Licence Pro déjà existante en partenariat avec la Chambre des Métiers et de l'Artisanat de Tarn-et-Garonne. Deux salles de classe d'environ 60m² chacune ainsi qu'un atelier de plus de 100m² permettra à 40 élèves de suivre ce master au sein du Tiers-Lieu, d'accéder par la même occasion aux différents espaces et d'être méler à des publics très variés dont des professionnels. Le fait de faire se cotoyer des étudiants et des professionnels sera bénéfiques pour toutes les parties.
+A cela, viendra se greffer le projet de création d'un master Artisan Numérique, prenant la suite de la Licence Pro déjà existante en partenariat avec la Chambre des Métiers et de l'Artisanat de Tarn-et-Garonne. Deux salles de classe d'environ 60m² chacune ainsi qu'un atelier de plus de 100m² permettra à 40 élèves de suivre ce master au sein du Tiers-Lieu, d'accéder par la même occasion aux différents espaces et d'être méler à des publics très variés dont des professionnels. Le fait de faire se cotoyer des étudiants et des professionnels sera bénéfiques pour toutes les parties.  
+
+2.7 Médiathèque  
+La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catalogue et varié. Situé en plein coeur du Tiers-Lieu elle permettra de se documenter sur place ou d'emprunter des livres. Véritable lieu d'échange et de partage elle viend compléter un environnement déjà riche.
 
 3. Programmation, évenementiels  
 
