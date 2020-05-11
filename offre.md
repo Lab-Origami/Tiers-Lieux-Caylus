@@ -46,6 +46,7 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 3. Programmation, évenementiels  
 
 3.1 Animations régulières  
+
 3.1.1 Café Bricol'  
 Le café Bricol' est un rendez-vous mensuel ayant lieu le mardi de 18h à 22h. Lors de ce rendez-vous, nous essaierons ensemble de réparer divers appareils électroménagers, électroportatifs, ...  
 Il s'appuie sur la communauté du lieu ainsi que sur les animateurs du fablab.  
@@ -69,6 +70,10 @@ C'est le principe « pas de spectateur », « tous participants ». L'événemen
 3.1.5 Rencontres thématiques  
 Ces rencontres auront lieu une fois par trimestre et permettront à la fois de partager des informations et de créer une véritable dynamique à l'échelle du territoire en permettant, tant aux habitants qu'aux professionnels, de se rencontrer et de discuter autour de projets ou de faire remonter des besoins/des envies en donnant la parole à chaque personne qui en exprimerait le désir. 
 
+3.2 Animations ponctuelles  
+
+Sur le lieu pourront se tenir des événements portés par les utilisateurs du lieu en fonction de leurs envies, leurs besoins.  
+Des espaces pourront également être privatisés pour l'organisation d'événements privés tels que des événements d'entreprise par exemple.  
 
 
 [Retour](README.md)
