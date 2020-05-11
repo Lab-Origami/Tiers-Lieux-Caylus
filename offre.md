@@ -53,6 +53,11 @@ Il est l'occasion de sensibiliser à la réparation, au recyclage et au ré empl
 Des trocs de matériel pourront être organisés lors de ces soirées.   
 
 3.1.2 Atelier Low Tech  
+Faire simple. Faire mieux avec moins. Penser recyclage, ré emploi.  
+Tels sont quelques idées derrière le terme Low Tech.  
+Comme pour les cafés Bricol', l'Atelier Low Tech est un rendez-vous mensuel ayant lieu tous les 2ème mardis de chaque mois de 18h à 22h. Des projets en lien avec l'habitat, l'alimentation, le transport ou encore l'énergie seront développés et des expérimentations menées.  
+Pour mener à bien ces projets la communauté pourra s'appuyer sur les outils du fablab et les différents espaces à disposition.  
+Exemples de projet déjà réalisés : Un four Tandoori en terre paille, une éolienne à base de moteur d'hoverboard ou encore un vélo électrique toujours à base de moteur d'hoverboard.  
 
 3.1.3 Open Lab  
 
