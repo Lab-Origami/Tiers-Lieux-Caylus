@@ -41,7 +41,7 @@ A cela, viendra se greffer le projet de création d'un master Artisan Numérique
 La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catalogue et varié. Situé en plein coeur du Tiers-Lieu elle permettra de se documenter sur place ou d'emprunter des livres. Véritable lieu d'échange et de partage elle viend compléter un environnement déjà riche.
 
 2.8 Plans  
-<embed src="files/plans_fablab.pdf" type="application/pdf" />   
+<a href="files/plans_fablab.pdf" class="image fit"><img src="files/fablab.jpg" alt=""></a>	 
 
 3. Programmation, évenementiels  
 
