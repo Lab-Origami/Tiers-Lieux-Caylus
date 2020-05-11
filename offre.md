@@ -44,13 +44,13 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 
 ## 4.2.8 Plans  
 
-### 4.2.8.1 Fablab  
+### a. Fablab  
 <a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
 
-### 4.2.8.2 Bureaux  
+### b. Bureaux  
 <a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
 
-### 4.2.8.3 Forges  
+### c. Forges  
 <a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
 
 ---  
@@ -59,13 +59,13 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 
 ## 4.3.1 Animations régulières  
 
-### 4.3.1.1 Café Bricol'  
+### a. Café Bricol'  
 Le café Bricol' est un rendez-vous mensuel ayant lieu le mardi de 18h à 22h. Lors de ce rendez-vous, nous essaierons ensemble de réparer divers appareils électroménagers, électroportatifs, ...  
 Il s'appuie sur la communauté du lieu ainsi que sur les animateurs du fablab.  
 Il est l'occasion de sensibiliser à la réparation, au recyclage et au ré emploi.  
 Des trocs de matériel pourront être organisés lors de ces soirées.   
 
-### 4.3.1.2 Atelier Low Tech  
+### b. Atelier Low Tech  
 Faire simple. Faire mieux avec moins. Penser recyclage, ré emploi.  
 Tels sont quelques idées derrière le terme Low Tech.  
 Comme pour les cafés Bricol', l'Atelier Low Tech est un rendez-vous mensuel ayant lieu tous les 2ème mardis de chaque mois de 18h à 22h.  
@@ -73,14 +73,14 @@ Des projets en lien avec l'habitat, l'alimentation, le transport ou encore l'én
 Pour mener à bien ces projets la communauté pourra s'appuyer sur les outils du fablab et les différents espaces à disposition.  
 Exemples de projet déjà réalisés : Un four Tandoori en terre paille, une éolienne à base de moteur d'hoverboard ou encore un vélo électrique toujours à base de moteur d'hoverboard.  
 
-### 4.3.1.3 Open Lab  
+### c. Open Lab  
 Evénement régulier ayant lieu tous les 4ème samedis de chaque mois. Des thématiques très différentes seront abordées lors de ces journées allant de journées jeux ou d'expositions d'art en passant par de la Musique assistée par Ordinateur ou encore de fabrication de mobilier en palettes ou de découvertes des machines de fabrication numérique. Ces événements sont gratuits et ouverts à tous. Ils pourront être co organisés avec d'autres associations et parfois en dehors des mûrs du lieu.  
 
-### 4.3.1.4 BarCamp  
+### d. BarCamp  
 Un BarCamp est une rencontre, une non-conférence ouverte, qui prend la forme d'ateliers-événements participatifs où le contenu est fourni par des participants qui doivent tous, à un titre ou à un autre, apporter quelque chose au Barcamp.  
 C'est le principe « pas de spectateur », « tous participants ». L'événement met l'accent sur les toutes dernières innovations en matière d'applications Internet, de logiciels libres et de réseaux sociaux.  
 
-### 4.3.1.5 Rencontres thématiques  
+### e. Rencontres thématiques  
 Ces rencontres auront lieu une fois par trimestre et permettront à la fois de partager des informations et de créer une véritable dynamique à l'échelle du territoire en permettant, tant aux habitants qu'aux professionnels, de se rencontrer et de discuter autour de projets ou de faire remonter des besoins/des envies en donnant la parole à chaque personne qui en exprimerait le désir. 
 
 ## 4.3.2 Animations ponctuelles  
