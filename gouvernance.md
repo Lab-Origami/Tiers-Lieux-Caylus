@@ -1,11 +1,11 @@
-# Gourvernance partagée  
+# 3. Gourvernance partagée  
 
 La première question à se poser est : *Avons-nous la volonté de mettre en place une gouvernance partagée ?*  
 Voulons-nous fontionner de manière horizontale en impliquant les différents acteurs et utilisateurs du lieu ?  
 Chacun pourra choisir son niveau d'implication. Participer à des cercles en fonction de ses compétences ou affinitées, proposer des ateliers et/ou moments de partage de compétences ou tout simplement venir sur le lieu sans forcément avoir l'envie de s'investir dans la vie de ce dernier.  
 L'**entraide, la bienveillance et l'envie de faire ensemble** seront primordiales dans la gestion au quotidien.  
 
-## Qu'est-ce que la gouvernance partagée ?
+## 3.1 Qu'est-ce que la gouvernance partagée ?
 
 Nous ferons ici référence à la définition du site de l'Université du nous.  
 
@@ -19,7 +19,7 @@ En d'autres termes, et toujours en reprenant les termes de l'Université du Nous
 
 Il existe énormément d'outils permettant d'expérimenter et de mettre en place une gouvernance partagée. On pourrait citer par exemple les outils d'intelligence collective, une gestion par consentement, une élection sans candidat, ...  
 
-## Les différentes briques d'une gouvernance partagée  
+## 3.2 Les différentes briques d'une gouvernance partagée  
 (source : https://nos-communes.fr/gouvernance/introduction-a-la-gouvernance-partagee/)  
 
 * **Un “Nous” fort :**  
