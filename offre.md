@@ -55,7 +55,7 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 
 ---  
 
-3. Programmation, évenementiels  
+3. Programmation, événementiels  
 
 3.1 Animations régulières  
 
