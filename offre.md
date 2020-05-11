@@ -60,12 +60,14 @@ Pour mener à bien ces projets la communauté pourra s'appuyer sur les outils du
 Exemples de projet déjà réalisés : Un four Tandoori en terre paille, une éolienne à base de moteur d'hoverboard ou encore un vélo électrique toujours à base de moteur d'hoverboard.  
 
 3.1.3 Open Lab  
+Evénement régulier ayant lieu tous les 4ème samedis de chaque mois. Des thématiques très différentes seront abordées lors de ces journées allant de journées jeux ou d'expositions d'art en passant par de la Musique assistée par Ordinateur ou encore de fabrication de mobilier en palettes ou de découvertes des machines de fabrication numérique. Ces événements sont gratuits et ouverts à tous. Ils pourront être co organisés avec d'autres associations et parfois en dehors des mûrs du lieu.  
 
 3.1.4 BarCamp  
 Un BarCamp est une rencontre, une non-conférence ouverte, qui prend la forme d'ateliers-événements participatifs où le contenu est fourni par des participants qui doivent tous, à un titre ou à un autre, apporter quelque chose au Barcamp.  
 C'est le principe « pas de spectateur », « tous participants ». L'événement met l'accent sur les toutes dernières innovations en matière d'applications Internet, de logiciels libres et de réseaux sociaux.  
 
-3.1.5 Rencontres thématiques
+3.1.5 Rencontres thématiques  
+Ces rencontres auront lieu une fois par trimestre et permettront à la fois de partager des informations et de créer une véritable dynamique à l'échelle du territoire en permettant, tant aux habitants qu'aux professionnels, de se rencontrer et de discuter autour de projets ou de faire remonter des besoins/des envies en donnant la parole à chaque personne qui en exprimerait le désir. 
 
 
 
