@@ -47,9 +47,19 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 
 3.1 Animations régulières  
 3.1.1 Café Bricol'  
+Le café Bricol' est un rendez-vous mensuel ayant lieu le mardi de 18h à 22h. Lors de ce rendez-vous, nous essaierons ensemble de réparer divers appareils électroménagers, électroportatifs, ...  
+Il s'appuie sur la communauté du lieu ainsi que sur les animateurs du fablab.  
+Il est l'occasion de sensibiliser à la réparation, au recyclage et au ré emploi.  
+Des trocs de matériel pourront être organisés lors de ces soirées.   
+
 3.1.2 Atelier Low Tech  
+
 3.1.3 Open Lab  
+
 3.1.4 BarCamp  
+Un BarCamp est une rencontre, une non-conférence ouverte, qui prend la forme d'ateliers-événements participatifs où le contenu est fourni par des participants qui doivent tous, à un titre ou à un autre, apporter quelque chose au Barcamp.  
+C'est le principe « pas de spectateur », « tous participants ». L'événement met l'accent sur les toutes dernières innovations en matière d'applications Internet, de logiciels libres et de réseaux sociaux.  
+
 3.1.5 Rencontres thématiques
 
 
