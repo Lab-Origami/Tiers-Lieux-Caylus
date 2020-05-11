@@ -13,6 +13,7 @@ En d'autres termes, et toujours en reprenant les termes de l'Université du Nous
 Il existe énormément d'outils permettant d'expérimenter et de mettre en place une gouvernance partagée. On pourrait citer par exemple les outils d'intelligence collective, une gestion par consentement, une élection sans candidat, ...  
 
 ## Les différentes briques d'une gouvernance partagée  
+(source : https://nos-communes.fr/gouvernance/introduction-a-la-gouvernance-partagee/)  
 
 * **Un “Nous” fort :**  
 Pas de Gouvernance Partagée sans un collectif soudé.
