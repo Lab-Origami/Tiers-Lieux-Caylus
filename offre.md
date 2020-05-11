@@ -12,6 +12,8 @@ Des rencontres entre entrepreneurs seront organisés afin de faire de la mise en
 1.3 Les associations  
 Des associations pourront venir profiter des espaces offerts par le lieu afin de bénéficier de salles, d'outils spécifiques ou encore venir présenter leurs projets.
 
+---  
+
 2. Description de l'offre  
 
 Le Tiers-Lieu sera ouvert au minimum du lundi au vendredi de 8h30 à 17h30 avec deux nocturnes, les mardi et jeudi jusqu'à 22h. Des week-end avec des rencontres thématiques seront proposés ou l'accès à la Micro-Folie sera possible. Les résidents auront un accès au lieu 24/7 au lieu.  
@@ -50,6 +52,8 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 
 2.8.3 Forges  
 <a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
+
+---  
 
 3. Programmation, évenementiels  
 
