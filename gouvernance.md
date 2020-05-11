@@ -1,4 +1,10 @@
-# Qu'est-ce que la gouvernance partagée ?
+# Gourvernance partagée  
+
+La première question à se poser est : *Avons-nous la volonté de mettre en place une gouvernance partagée ?*  
+Voulons-nous fontionner de manière horizontale en impliquant les différents acteurs et utilisateurs du lieu ?  
+Chacun pourra choisir son niveau d'implication. Participer à des cercles en fonction de ses compétences ou affinitées, proposer des ateliers et/ou moments de partage de compétences ou tout simplement venir sur le lieu sans forcément avoir l'envie de s'investir dans la vie de ce dernier.  
+
+## Qu'est-ce que la gouvernance partagée ?
 
 Nous ferons ici référence à la définition du site de l'Université du nous.  
 
