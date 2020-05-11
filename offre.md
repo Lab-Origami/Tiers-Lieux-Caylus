@@ -41,6 +41,14 @@ A cela, viendra se greffer le projet de création d'un master Artisan Numérique
 La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catalogue et varié. Situé en plein coeur du Tiers-Lieu elle permettra de se documenter sur place ou d'emprunter des livres. Véritable lieu d'échange et de partage elle viend compléter un environnement déjà riche.
 
 2.8 Plans  
+
+2.8.1 Fablab  
+<a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
+
+2.8.2 Bureaux  
+<a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
+
+2.8.3 Forges  
 <a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
 
 3. Programmation, évenementiels  
@@ -75,6 +83,7 @@ Ces rencontres auront lieu une fois par trimestre et permettront à la fois de p
 
 Sur le lieu pourront se tenir des événements portés par les utilisateurs du lieu en fonction de leurs envies, leurs besoins.  
 Des espaces pourront également être privatisés pour l'organisation d'événements privés tels que des événements d'entreprise par exemple.  
+Au besoin, et à la demande des coworkers par exemples, des permanences d'experts comptables, d'avocats ou juristes pourront être organisées sur le temps du midi.  
 
 
 [Retour](README.md)
