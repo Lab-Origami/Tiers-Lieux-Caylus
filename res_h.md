@@ -1,6 +1,6 @@
 # 6. Ressources humaines  
 
-## 6.1. Présentation de l'équipe projet  
+## 6.1 Présentation de l'équipe projet  
 Pour mener à bien ce projet, nous avons déjà une équipe en place et le recrutement d'un autre ETP sur l'animation et la coordination du lieu viendra la renforcer.  
 
 * **Eléonore Artous**  
