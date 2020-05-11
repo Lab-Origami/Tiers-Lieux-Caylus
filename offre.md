@@ -45,6 +45,13 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 
 3. Programmation, évenementiels  
 
+3.1 Animations régulières  
+3.1.1 Café Bricol'  
+3.1.2 Atelier Low Tech  
+3.1.3 Open Lab  
+3.1.4 BarCamp  
+3.1.5 Rencontres thématiques
+
 
 
 [Retour](README.md)
