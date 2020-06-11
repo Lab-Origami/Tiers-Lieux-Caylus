@@ -62,7 +62,15 @@ Une pièce supplémentaire, située derrière la cuisine, servira de salle de fo
 
 ### 4.3 Plans  
 
-<img src="files/1913_APS_PLANS-page-007.jpg" width="340">	
+<img src="files/1913_APS_PLANS-page-007.jpg" width="340">  
+
+<img src="files/1913_APS_PLANS-page-008.jpg" width="340">	  
+
+<img src="files/1913_APS_PLANS-page-009.jpg" width="340">  
+
+<img src="files/1913_APS_PLANS-page-010.jpg" width="340">  
+
+<img src="files/1913_APS_PLANS-page-011.jpg" width="340">  
 
 
 ---  
