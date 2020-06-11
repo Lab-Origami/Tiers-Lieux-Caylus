@@ -22,29 +22,41 @@ Le Tiers-Lieu sera ouvert au minimum du lundi au vendredi de 8h30 à 17h30 avec 
 Le lieu est équipé d'une connexion internet haut débit et pourra prochainement être équipé de la fibre optique autorisant un débit bien supérieur. Seront accessibles des salles de réunions équipées pour de la visio-conférence, des espaces de coworking, des bureaux, des espaces conviviaux, une cuisine partagée, des jardinières, un fablab avec différents ateliers (bois, métal, terre), une médiathèque, un espace micro-folie et des espaces de formation. 
 Nous détaillerons ci-dessous de manière plus précise l'offre des différents espaces.  
 
-### 4.2.1 Salle de réunion => Emplacement à définir  
-Une salle de réunion d'environ 50m² pouvant accueillir 20 participants au maximum équipée d'une connexion internet filaire et sans-fil, d'un système de visio-conférence avec écran géant et micro individuel. La salle de réunion sera accessible aux résidents permanents du Tiers-Lieu mais également aux extérieurs comme des associations pour la tenue de leur Conseil d'Administration par exemple, des municipalités, des entreprises, les écoles, ...
+### 4.2.1 Salle de réunion  
+Une salle de réunion d'environ 25m² pouvant accueillir 12 participants au maximum équipée d'une connexion internet filaire et sans-fil, d'un système de visio-conférence avec caméra, écran géant et micro individuel. La salle de réunion sera accessible aux résidents permanents du Tiers-Lieu mais également aux extérieurs comme des associations pour la tenue de leur Conseil d'Administration par exemple, des municipalités, des entreprises, les écoles, ... Au niveau du mobilier, la salle sera équipée de tables et de chaises que l’on pourra reconfigurer en fonction du nombre des besoins ou du nombre de personnes. 
 
 ### 4.2.2 Bureaux  
-6 bureaux, allant de 10 à 15m², fermés au total seront disponibles au mois ou à l'année. Un bureau sera réservé pour les personnes souhaitant louer un espace pour un temps réduit (une journée ou plus). Chacun est équipé d'une armoire, d’un ensemble bureau/chaise, d'une connexion internet et bénéficie de l'accès à un photocopieur. Chaque locataire bénéficie bien entendu de l'accès à l'ensemble des espaces. 
+6 bureaux, allant de 10 à 15m², fermés seront disponibles au mois ou à l'année. Un bureau sera réservé pour les personnes souhaitant louer un espace pour un temps réduit (une journée ou plus) et un autre pourra être attribué à l’équipe du fablab. Chacun est équipé d'une armoire, d’un ensemble bureau/chaise, étagère, d'une connexion internet et bénéficie de l'accès à un photocopieur. Chaque locataire bénéficie bien entendu de l'accès à l'ensemble des espaces.  
 
 ### 4.2.3 Espaces de coworking  
-Un espace de coworking de 30m² pouvant accueillir 4 personnes maximum équipé de bureau individuel et de casier, d'une connexion wifi, d'un accès au photocopieur, aux espaces de repos et à la cuisine partagée. L'accès à la journée sera facturé 5€. Ce prix comprend une dizaine d'impressions ou photocopies. Les suivantes seront facturées.  
+Un espace de coworking de 25m² pouvant accueillir 4 personnes maximum équipé de bureau individuel et de casier, d'une connexion wifi, d'un accès au photocopieur, aux espaces de repos et à la cuisine partagée. L'accès à la journée sera facturé 5€. Ce prix comprend une dizaine d'impressions ou photocopies. Les suivantes seront facturées.  
 
 ### 4.2.4 Fablab  
-Le fablab mettra à disposition de tous un atelier bois et métal d'environ 60m² chacun. L'atelier bois sera équipé d'une fraiseuse numérique de grande taille ainsi que d'une découpe laser de taille moyenne. L'atelier métal quant à lui offrira l'accès à une découpe plasma et une découpe laser de plus grande taille. Un espace de plus de 40m² offrira l'accès aux imprimantes 3D, découpe vinyle et fil chaud ainsi qu'un espace détente et documentation. D'autres espaces, restant à définir, permettront d'accueillir des zones d'assemblages, un laboratoire d'électronique ou encore un atelier terre.  
+Le fablab mettra à disposition de tous un atelier bois et métal de respectivement 70 et 60m². L'atelier bois sera équipé d'une fraiseuse numérique de grande taille ainsi que de deux découpes laser de grande et moyenne taille. L'atelier métal quant à lui offrira l'accès à une découpe plasma et des outils pour travailler le métal. Un espace de plus de 40m² équipé de tables et chaises offrira l'accès aux imprimantes 3D, découpe vinyle et fil chaud ainsi qu'un espace détente et documentation avec un coin canapé. D'autres espaces, restant à définir, permettront d'accueillir des zones d'assemblages, un laboratoire d'électronique ou encore un atelier terre.  
 
-### 4.2.5 Micro-folie  
-L'installation d'une Micro-folie est prévue sur le lieu. Un espace de 70m² pour le musée numérique que viendront compléter deux espaces de réalité virtuelle de 10m² chacun. La Micro-folie sera un outil d'accès à l'art pour tous et des ateliers viendront compléter ce dispositif en partenariat avec des structures du territoire comme la résidence d'artiste Draw International ou encore l'Abbaye de Beaulieu, abbaye cistercienne abandonnée à la Révolution, sauvée de la ruine dans les années 1950 par Geneviève Bonnefoi et Pierre Brache. En 1973, ils en font don ainsi qu'une importante collection d'art moderne aux Monuments nationaux. L'abbaye est alors transformée en centre d'art contemporain et aujourd'hui plus important musée d'art contemporain de la région Midi-Pyrénées. L'espace Micro-folie pourra accueillir d'autres événements comme des conférences, des réunions. Il sera modulaire et facilement reconfigurable en fonction des besoins. Il proposera un espace scénique qui permettra d'accueillir des troupes de théâtres ou encore des groupes de musique. Il sera visible depuis l'extérieur et se trouvera à un carrefour stratégique du village. A la croisée de la rue menant à la place principale du village, du Tiers-Lieu et de l'accès au lac de Labarthe et situé à proximité de l'office de tourisme il pourra également servir pour l'accueil des touristes.
+### 4.2.5 Salle multimédia et conférences    
+L'installation d'une Micro-folie est prévue sur le lieu. Un espace de 70m² pour le musée numérique que viendra compléter un espace de réalité virtuelle/salon de jeux de 20m². La Micro-folie sera un outil d'accès à l'art pour tous et des ateliers viendront compléter ce dispositif en partenariat avec des structures du territoire comme la résidence d'artiste Draw International ou encore l'Abbaye de Beaulieu, abbaye cistercienne abandonnée à la Révolution, sauvée de la ruine dans les années 1950 par Geneviève Bonnefoi et Pierre Brache. En 1973, ils en font don ainsi qu'une importante collection d'art moderne aux Monuments nationaux. L'abbaye est alors transformée en centre d'art contemporain et aujourd'hui plus important musée d'art contemporain de la région Midi-Pyrénées. L'espace Micro-folie pourra accueillir d'autres événements comme des conférences, des réunions. Il sera modulaire et facilement reconfigurable en fonction des besoins. Il proposera un espace scénique qui permettra d'accueillir des troupes de théâtres ou encore des groupes de musique. Il sera visible depuis l'extérieur et se trouvera à un carrefour stratégique du village. A la croisée de la rue menant à la place principale du village, du Tiers-Lieu et de l'accès au lac de Labarthe et situé à proximité de l'office de tourisme il pourra également servir pour l'accueil des touristes.
 
 ### 4.2.6 Formation  
-Une salle de formation de plus de 40m² et capable d'accueillir jusqu'à 10 stagiaires, labellisée Tiers-Lieu eFormation a été créée en Mars 2019.  
-A cela, viendra se greffer le projet de création d'un master Artisan Numérique, prenant la suite de la Licence Pro déjà existante en partenariat avec la Chambre des Métiers et de l'Artisanat de Tarn-et-Garonne. Deux salles de classe d'environ 60m² chacune ainsi qu'un atelier de plus de 100m² permettra à 40 élèves de suivre ce master au sein du Tiers-Lieu, d'accéder par la même occasion aux différents espaces et d'être mêlé à des publics très variés dont des professionnels. Le fait de faire se côtoyer des étudiants et des professionnels sera bénéfiques pour toutes les parties.  
+Une salle de formation d'environ 40m² et capable d'accueillir jusqu'à 10 stagiaires, labellisée Tiers-Lieu eFormation a été créée en Mars 2019.  
+A cela, viendra se greffer le projet de création d'un master Artisan Numérique, prenant la suite de la Licence Pro déjà existante en partenariat avec la Chambre des Métiers et de l'Artisanat de Tarn-et-Garonne. Deux salles de classe, une de 50m² et l’autre de 65m², équipées avec des tables et chaises et des casiers, ainsi qu'un atelier de plus de 100m² permettra à 40 élèves de suivre ce master au sein du Tiers-Lieu, d'accéder par la même occasion aux différents espaces et d'être mêlé à des publics très variés dont des professionnels. Le fait de faire se côtoyer des étudiants et des professionnels sera bénéfiques pour toutes les parties.  
 
 ### 4.2.7 Médiathèque  
-La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catalogue et varié. Situé en plein coeur du Tiers-Lieu elle permettra de se documenter sur place ou d'emprunter des livres. Véritable lieu d'échange et de partage elle vient compléter un environnement déjà riche.
+La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catalogue et varié. Situé en plein coeur du Tiers-Lieu elle permettra de se documenter sur place ou d'emprunter des livres. Véritable lieu d'échange et de partage elle vient compléter un environnement déjà riche.  
 
-### 4.2.8 Plans  
+### 4.2.8 Espaces communs  
+
+#### a. Cuisine/verrière  
+Une cuisine partagée de 30m² permettra aux personnes fréquentant le lieu de pouvoir se restaurer sur place.  
+Une verrière d'environ 50m² assurera une liaison abritée entre plusieurs bâtiments et pourra être utilisée lors de réception ou événements organisés au sein du lieu.  
+
+#### b. Vestiaires / sanitaires
+Afin d'encourager l'usage du vélo ou la pratique du sport, il est envisagé d'installer des vestiaires avec des douches au sein du lieu. Le Tiers-lieu étant amené à accueillir toujours plus de personnes, il est nécessaire de rajouter des sanitaires.  
+
+#### c. Terrasses  
+Des terrasses extérieures, couvertes ou non, pourront être utilisées par tout un chacun. Ces espaces seront aménagés avec des mange-debout, des chaises, canapés, ...
+
+### 4.3 Plans  
 
 #### a. Fablab  
 <object data="files/plans_fablab.pdf" type="application/pdf" width="700px" height="700px">
@@ -61,9 +73,9 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 
 ---  
 
-## 4.3 Programmation, événementiels  
+## 4.4 Programmation, événementiels  
 
-### 4.3.1 Animations régulières  
+### 4.4.1 Animations régulières  
 
 #### a. Café Bricol'  
 Le café Bricol' est un rendez-vous mensuel ayant lieu le mardi de 18h à 22h. Lors de ce rendez-vous, nous essaierons ensemble de réparer divers appareils électroménagers, électroportatifs, ...  
@@ -78,6 +90,7 @@ Comme pour les cafés Bricol', l'Atelier Low Tech est un rendez-vous mensuel aya
 Des projets en lien avec l'habitat, l'alimentation, le transport ou encore l'énergie seront développés et des expérimentations menées.  
 Pour mener à bien ces projets la communauté pourra s'appuyer sur les outils du fablab et les différents espaces à disposition.  
 Exemples de projet déjà réalisés : Un four Tandoori en terre paille, une éolienne à base de moteur d'hoverboard ou encore un vélo électrique toujours à base de moteur d'hoverboard.  
+Parallèlement à ces rendez-vous sera mis en place une bricothèque permettant d’emprunter du matériel de bricolage.
 
 #### c. Open Lab  
 Evénement régulier ayant lieu tous les 4èmes samedis de chaque mois. Des thématiques très différentes seront abordées lors de ces journées allant de journées jeux ou d'expositions d'art en passant par de la Musique assistée par Ordinateur ou encore de fabrication de mobilier en palettes ou de découvertes des machines de fabrication numérique. Ces événements sont gratuits et ouverts à tous. Ils pourront être coorganisés avec d'autres associations et parfois en dehors des murs du lieu.  
@@ -89,7 +102,7 @@ C'est le principe « pas de spectateur », « tous participants ». L'événemen
 #### e. Rencontres thématiques  
 Ces rencontres auront lieu une fois par trimestre et permettront à la fois de partager des informations et de créer une véritable dynamique à l'échelle du territoire en permettant, tant aux habitants qu'aux professionnels, de se rencontrer et de discuter autour de projets ou de faire remonter des besoins/des envies en donnant la parole à chaque personne qui en exprimerait le désir. 
 
-### 4.3.2 Animations ponctuelles  
+### 4.4.2 Animations ponctuelles  
 
 Sur le lieu pourront se tenir des événements portés par les utilisateurs du lieu en fonction de leurs envies, leurs besoins.  
 Des espaces pourront également être privatisés pour l'organisation d'événements privés tels que des événements d'entreprise par exemple.  
