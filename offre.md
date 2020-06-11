@@ -47,7 +47,7 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 ### 4.2.8 Plans  
 
 #### a. Fablab  
-<a href="files/plans_fablab.pdf"></a>	
+<a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
 
 #### b. Bureaux  
 <a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
