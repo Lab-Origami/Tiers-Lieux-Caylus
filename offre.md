@@ -62,18 +62,8 @@ Une pièce supplémentaire, située derrière la cuisine, servira de salle de fo
 
 ### 4.3 Plans  
 
-#### a. Fablab  
-<object data="files/plans_fablab.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="files/plans_fablab.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="files/plans_fablab.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<img src="files/1913_APS_PLANS-page-007.jpg" width="340">	
 
-#### b. Bureaux  
-<a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
-
-#### c. Forges  
-<a href="files/plans_fablab.pdf"><img src="files/plans_fablab.jpg" alt="" width="340"></a>	
 
 ---  
 
