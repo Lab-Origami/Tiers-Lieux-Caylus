@@ -48,10 +48,10 @@ La médiathèque de Caylus s'étend sur environ 200m² et propose un grand catal
 
 #### a. Cuisine/verrière  
 Une cuisine partagée de 30m² permettra aux personnes fréquentant le lieu de pouvoir se restaurer sur place.  
-Une verrière d'environ 50m² assurera une liaison abritée entre plusieurs bâtiments et pourra être utilisée lors de réception ou événements organisés au sein du lieu.  
+Une verrière d'environ 50m² assurera une liaison abritée entre plusieurs bâtiments et pourra être utilisée lors de réception ou événements organisés au sein du lieu. Du mobilier sera installé au sein de cette dernière.   
 
 #### b. Vestiaires / sanitaires
-Afin d'encourager l'usage du vélo ou la pratique du sport, il est envisagé d'installer des vestiaires avec des douches au sein du lieu. Le Tiers-lieu étant amené à accueillir toujours plus de personnes, il est nécessaire de rajouter des sanitaires.  
+Afin d'encourager l'usage du vélo ou la pratique du sport, il est envisagé d'installer des vestiaires avec des douches et des casiers au sein du lieu. Le Tiers-lieu étant amené à accueillir toujours plus de personnes, il est nécessaire de rajouter des sanitaires.  
 
 #### c. Terrasses  
 Des terrasses extérieures, couvertes ou non, pourront être utilisées par tout un chacun. Ces espaces seront aménagés avec des mange-debout, des chaises, canapés, ...  
